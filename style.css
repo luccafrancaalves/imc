@@ -1,0 +1,46 @@
+#meuBotao:active {
+    border: none !important;
+    transform: translateY(4px);
+    outline: none !important;
+}
+
+#meuBotao:focus{
+    outline:none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+#bodyCor{
+    background-color: #ff1a75;
+    font-family: 'lato', sans-serif;
+}
+   label{
+    color:white;
+    tetx-aling: lesft;
+    padding-left: 0;
+    margin-left: 0;
+   }
+    input{
+        text-aling: center;
+    }
+     form   {
+        position: relative;
+        display: inline-block;
+        padding: 10x 20x;
+     }
+     p{
+        color:white;
+        text-aling: center;
+     }
+     a:link {
+        text-decoration: none;
+        color:white;
+     }
+     a:visitd {
+        text-decoration: none;
+     }
+     a:hover {
+        text-decoration: underline;
+     }
+     a:active {
+        text-decoration: underline;
+     }
